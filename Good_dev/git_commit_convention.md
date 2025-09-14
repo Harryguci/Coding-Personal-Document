@@ -1,0 +1,11 @@
+- `feat` – Tính năng mới
+- `fix` – Fix bugs
+- `chore` – Những thay đổi không liên quan tới bugs hoặc tính năng, không sửa đổi source hoặc test file (VD: cập nhật dependencies)
+- `refactor` – tái cấu trúc code, không fix bugs, không sửa tính năng
+- `docs` – Cập nhật file tài liệu (Markdown, README)
+- `style` – Những thay đổi không thay đổi ý nghĩa của source code, chỉ thay đổi format như khoảng trắng, dấu chấm phẩy, ...
+- `test` – Bao gồm các file test mới hoặc sửa chữa file test trước đó
+- `perf` – Tối ưu hóa hiệu năng
+- `ci` – Liên quan tới tích hợp
+- `build` – Những thay đổi có ảnh hướng tới build system hoặc external dependencies
+- `revert` – reverts 1 bản commit trước đó
